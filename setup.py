@@ -27,7 +27,7 @@ setup(
     name='Network Security',
     version='0.0.1',
     author='Vikramjit Bora',
-    author_email='boravikramjit@gmail.com',
+    author_email='vikramjitbora.pro@gmail.com',
     packages=find_packages(),
     install_requires = get_requirements()
 )
