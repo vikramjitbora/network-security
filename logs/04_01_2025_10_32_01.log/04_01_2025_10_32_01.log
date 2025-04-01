@@ -1,0 +1,2 @@
+[ 2025-04-01 10:32:01,170 ] 44 root - ERROR - Error converting CSV to JSON: File not found: Network_Data/phishingData.csv
+[ 2025-04-01 10:32:01,170 ] 74 root - ERROR - Error in execution: Error occured in python script name [/Users/vikramjitbora/Downloads/Projects/mlops/networksec/push_data.py] line number [33] error message [File not found: Network_Data/phishingData.csv]
